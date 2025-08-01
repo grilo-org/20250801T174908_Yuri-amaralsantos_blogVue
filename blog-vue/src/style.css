@@ -1,0 +1,12 @@
+/* main.css ou App.vue */
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", "Roboto", sans-serif;
+  background-color: white;
+  color: #212529;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
